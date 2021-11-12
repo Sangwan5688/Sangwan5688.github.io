@@ -1,11 +1,11 @@
 # BlackHole
 
-Awesome Music Player made with Flutter!
+Awesome music player made with Flutter!
 
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/Sangwan5688/BlackHole) ![Downloads](https://img.shields.io/github/downloads/Sangwan5688/BlackHole/total)
 [![CI](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml/badge.svg)](https://github.com/Sangwan5688/BlackHole/actions/workflows/flutter.yml)
 
-### Dont forget to :star: the repo
+### Dont forget to :star: the repo!
 
 [![GitHub stars](https://img.shields.io/github/stars/Sangwan5688/BlackHole.svg?style=social&label=Star)](https://github.com//Sangwan5688/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/Sangwan5688/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Sangwan5688.svg?style=social&label=Follow)
 
@@ -15,42 +15,41 @@ Awesome Music Player made with Flutter!
 
 ## Features
 
-* Best Streaming Quality (320kbps aac)
-* Song, Album, Artist and Playlist Search
-* Language Specific Promoted Playlists
-* Trending Songs
+* Best streaming quality (320kbps aac)
+* Song, album, artist and playlist search
+* Language specific promoted playlists
+* Trending songs
 * Support 15+ music languages
-* Local and Global Top Spotify songs
-* Add Songs to Favorite
+* Local and global top Spotify songs
+* Add songs to favorite
 * Playlists support
-* Import Playlists from Spotify
-* Import/Export Playlists as JSON File
-* Share Playlists
+* Import playlists from Spotify
+* Import/export playlists as JSON file
+* Share playlists
 * Sleep timer
-* Lyrics Support
-* Queue Management
+* Lyrics support
+* Queue management
 * Listening history record
-* Dark mode / accent color
-* Custom Gradients and other Theme options
+* Dark mode
+* Custom gradients and other theme options
 * Download for offline play (320kbps with ID3 tags)
-* Play Online as well as Offline Songs
+* Stream music and play downloaded music
 * Play videos as audio
-* Auto Update Check
+* Auto update check
 * Cache support
-* No Subscription
-* No Ads
-* YouTube Search Support
-* Youtube Playlists
-* Tag Editing Support
+* No subscription needed
+* No ads
+* YouTube search and playlist support
+* Tag editing support
 
-and much more...
-Check it yourself :)
+And much more...
+check it out for yourself :)
 
 <h3 align="center">Preview</h3>
 
 <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/home.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/play.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/artist.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/topCharts.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/youtube.png?raw=true" width="32%"> <img src="https://github.com/Sangwan5688/BlackHole/blob/main/Screenshots/playlist.png?raw=true" width="32%">
 
-## [Download Latest Version](https://github.com/Sangwan5688/BlackHole/releases)
+## [Download latest version](https://github.com/Sangwan5688/BlackHole/releases)
 
 ## License
 ```
@@ -64,18 +63,18 @@ BlackHole is distributed in the hope that it will be useful, but WITHOUT ANY WAR
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 See the GNU General Public License for more details.
 ```
-[View License](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE)
+[View license](https://github.com/Sangwan5688/BlackHole/blob/main/LICENSE)
 
 ## Build
 
-1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.
+1. If you don't have the Flutter SDK, please visit the [Flutter](https://flutter.dev/) site to install.
 2. Fetch latest source code from master branch.
 
 ```
 git clone https://github.com/Sangwan5688/BlackHole.git
 ```
 
-3. Run the app with Android Studio or Visual Studio. Or the command line.
+3. Run the app with Android Studio, Visual Studio, or the command line.
 
 ```
 flutter pub get
@@ -86,43 +85,43 @@ flutter run
 
 ## Contribute
 
-Contributions are welcomed. Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
+Contributions are welcomed! Please read our [contributing guidelines](https://github.com/Sangwan5688/BlackHole/blob/main/CONTRIBUTING.md) before contributing.
 
-## Facing any Issue?
+## Facing any issues?
 
-Have a look at some [common Issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)
+Have a look at some [common issues](https://github.com/Sangwan5688/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an issue :)
 
 ## Need help?
 
-You can join our [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9) if you have any query, or need help with something as well as to stay updated with the project and contact me.
+You can join our [Telegram group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9) if you need any help or to stay updated with the project and contact me.
 
-## Liked my work?
+## Like my work?
 
 <a href="https://www.buymeacoffee.com/ankitsangwan" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-# What's New
+# What's new?
 
 ## v1.8
 
 * YouTube support added
-* Major UI Changes
-* Playlist and Artist Search Added
-* Added Promoted Playlists
-* Search History
-* Trending Searches
-* New Theme Options
-* Hide Last Session Songs
-* Proxy Support Added (beta)
-* Changed Default Theme
-* Add song to Queue
-* Flac and Wav Support Added for Offline Songs
+* Major UI changes
+* Playlist and artist search added
+* Added promoted playlists
+* Search history
+* Trending searches
+* New theme options
+* Hide songs from previous sessions
+* Proxy support (beta)
+* Changed default theme
+* Add song(s) to queue
+* FLAC and WAV support for offline songs
 * Made UI more responsive for different screen sizes
 * Added more lyrics support
 * Removed the slight gap when rearranging queue
 * Duplicate song now doesn't replace the old one
 * Playlist rename option added
 * Added selected-language specific search results
-* Added SD Card Support
-* Bug Fixes
+* Added SD card support
+* General bug fixes
 
-To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog)
+To read full changelog visit the [wiki page](https://github.com/Sangwan5688/BlackHole/wiki/Changelog).
